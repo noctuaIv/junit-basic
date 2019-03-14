@@ -1,0 +1,9 @@
+ua\voytovych\tests\HelloJUnitTest.class
+ua\voytovych\tests\ParameterizedTests.class
+ua\voytovych\tests\TrackingServiceTheories.class
+ua\voytovych\tests\BadCategory.class
+ua\voytovych\tests\GoodTestCategory.class
+ua\voytovych\tests\ProteinTrackerSuite.class
+ua\voytovych\tests\GoodTestSuite.class
+ua\voytovych\tests\TrackingServiceTests.class
+ua\voytovych\tests\ConsoleRunner.class
